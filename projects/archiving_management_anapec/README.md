@@ -29,7 +29,7 @@ The application provides a **user-friendly interface** that allows users to effi
 The application uses **Laravel Breeze**, a lightweight library that simplifies authentication and user management.
 It provides a robust, secure, and easy-to-implement authentication system for managing user accounts.
 
-![Authentication Screenshot](./assets/auth.jpeg)
+![Authentication Screenshot](https://raw.githubusercontent.com/hmaach/employability/main/projects/archiving_management_anapec/assets/auth.jpeg)
 
 ---
 
@@ -42,7 +42,7 @@ It displays metrics such as:
 * Gender distribution (men/women)
 * Detailed insights by archive type
 
-![Dashboard Screenshot](./assets/dashboard.jpeg)
+![Dashboard Screenshot](https://raw.githubusercontent.com/hmaach/employability/main/projects/archiving_management_anapec/assets/dashboard.jpeg)
 
 ---
 
@@ -51,7 +51,7 @@ It displays metrics such as:
 Each record can be linked to a **PDF file**, allowing users to associate relevant documents directly with archived data.
 This feature provides a convenient way to **quickly access supporting documents** during record reviews.
 
-![PDF Screenshot](./assets/pdf.jpeg)
+![PDF Screenshot](https://raw.githubusercontent.com/hmaach/employability/main/projects/archiving_management_anapec/assets/pdf.jpeg)
 
 ---
 
@@ -60,7 +60,7 @@ This feature provides a convenient way to **quickly access supporting documents*
 Each archive type has its own **dedicated datatable** with advanced filtering and search options.
 Users can easily **navigate through different archive categories** and **locate information efficiently**.
 
-![Typing Screenshot](./assets/types.jpeg)
+![Typing Screenshot](https://raw.githubusercontent.com/hmaach/employability/main/projects/archiving_management_anapec/assets/types.jpeg)
 
 </details>
 
@@ -89,7 +89,7 @@ L’application offre une **interface conviviale** permettant aux utilisateurs d
 L’application utilise **Laravel Breeze**, une bibliothèque légère qui simplifie la gestion de l’authentification et des utilisateurs.
 Elle permet de mettre en place un système **robuste, sécurisé et simple à intégrer** pour la gestion des comptes utilisateurs.
 
-![Authentification](./assets/auth.jpeg)
+![Authentification](https://raw.githubusercontent.com/hmaach/employability/main/projects/archiving_management_anapec/assets/auth.jpeg)
 
 ---
 
@@ -102,7 +102,7 @@ Il affiche notamment :
 * La répartition par genre (hommes/femmes)
 * Des statistiques détaillées par type d’archive
 
-![Tableau de bord](./assets/dashboard.jpeg)
+![Tableau de bord](https://raw.githubusercontent.com/hmaach/employability/main/projects/archiving_management_anapec/assets/dashboard.jpeg)
 
 ---
 
@@ -111,7 +111,7 @@ Il affiche notamment :
 Chaque enregistrement peut être associé à un **fichier PDF**, permettant aux utilisateurs de lier directement des documents pertinents aux données archivées.
 Cette fonctionnalité facilite **l’accès rapide aux documents importants** lors de la consultation des archives.
 
-![Document PDF](./assets/pdf.jpeg)
+![Document PDF](https://raw.githubusercontent.com/hmaach/employability/main/projects/archiving_management_anapec/assets/pdf.jpeg)
 
 ---
 
@@ -120,6 +120,6 @@ Cette fonctionnalité facilite **l’accès rapide aux documents importants** lo
 Chaque type d’archive possède sa propre **table de données** avec des fonctionnalités avancées de filtrage et de recherche.
 Les utilisateurs peuvent ainsi **naviguer facilement entre les différentes catégories d’archives** et **trouver rapidement les informations recherchées**.
 
-![Types d’archives](./assets/types.jpeg)
+![Types d’archives](https://raw.githubusercontent.com/hmaach/employability/main/projects/archiving_management_anapec/assets/types.jpeg)
 
 </details>
